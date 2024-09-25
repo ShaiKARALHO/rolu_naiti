@@ -8,4 +8,5 @@
     color: black;
     border-radius: 20px;
     height: 20rem;
+    flex-grow: 1;
 }
