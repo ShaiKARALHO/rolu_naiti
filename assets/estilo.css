@@ -20,7 +20,6 @@
     font-size: 20px;
     text-align: center;
     padding: 10px;
-    stroke: #18233F 10px;
     
 }
 
@@ -40,7 +39,7 @@ footer{
 
 }
 
-.cartao:hover{
-
+.cartao:hover .cartao--conteudo{
     background-color: #8A9BAD;
+    transform: rotateY(180deg);
 }
