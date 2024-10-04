@@ -20,7 +20,8 @@
     font-size: 20px;
     text-align: center;
     padding: 10px;
-    stroke: #18233F;
+    stroke: #18233F 10px;
+    
 }
 
 footer{
