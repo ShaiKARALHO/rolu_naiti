@@ -10,9 +10,8 @@
 }
 
 .cartao{
-    background-color: #99ABBF;
+    
     color: black;
-    border-radius: 20px;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -42,4 +41,15 @@ footer{
 .cartao:hover .cartao--conteudo{
     background-color: #8A9BAD;
     transform: rotateY(180deg);
+}
+
+.cartao--conteudo{
+
+    background-color: #99ABBF;
+    border-radius: 20px;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
+
+
 }
