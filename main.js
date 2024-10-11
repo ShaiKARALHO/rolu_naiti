@@ -1,1 +1,1 @@
-alert("hello word")
+alert("ta funfano")
