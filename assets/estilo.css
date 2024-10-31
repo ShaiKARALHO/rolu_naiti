@@ -5,7 +5,7 @@
 
 }
 
-.conteudo{
+#conteudo{
     display: flex;
     justify-content: space-between;
 }
