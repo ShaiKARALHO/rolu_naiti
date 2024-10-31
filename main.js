@@ -1,5 +1,5 @@
 function criarCartao(pergunta, resposta) {
-    let conteudo = document.getElementById("conteúdo")
+    let conteudo = document.getElementById("conteudo")
     console.log(conteudo)
 }
 
