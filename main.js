@@ -3,4 +3,4 @@ function criarCartao(pergunta, resposta) {
     console.log(conteudo)
 }
 
-criarCartao()
+criarCartao(1,2)
