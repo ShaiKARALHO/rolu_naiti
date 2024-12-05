@@ -5,6 +5,11 @@
 
 }
 
+body{
+    background-image: url(imagens/image\ 1.png);
+
+}
+
 #conteudo{
     display: flex;
     justify-content: space-between;
