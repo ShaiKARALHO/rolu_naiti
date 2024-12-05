@@ -6,8 +6,8 @@ function criarCartao(pergunta, resposta) {
     cartao.innerHTML = `
     
     <div class="cartao--conteudo">
-                    <div class="cartao--pergunta"><p>Qual o item que faz você dar pulo duplo no Hollow Knight</p></div>
-                    <div class="cartao--resposta"><p>Asas do Monarca</p></div>
+                    <div class="cartao--pergunta"><p>${pergunta}</p></div>
+                    <div class="cartao--resposta"><p>${resposta}</p></div>
                 </div>
     
     `
